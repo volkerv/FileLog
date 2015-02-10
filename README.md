@@ -1,4 +1,6 @@
-FileLog is a class that extends android.util.Log with file based logging.
+FileLog is a class that extends android.util.Log with file based logging:
+Every log message is logged via android.util.Log and also written to a text file on the device.
+
 
 How to use:
 
